@@ -1,0 +1,49 @@
+body {
+    background-image: url('https://www.bdfcommunication.it/wp-content/uploads/2015/05/portfolio-background.jpg');
+    background-repeat: no-repeat;
+    /*background-size: 100% 100%*/
+}
+#intro {   /* Abdelilah Dahdahi */
+    font-size: 40px;
+    color: white;
+    font-family:'Lucida Sans';
+    text-align: center;
+}
+#subIntro {  /* Computer Science student */
+    color: white;
+    font-size: 22px;
+    font-family: 'Garamond';
+    text-align: center;
+}
+#contactMe {
+    color: white;
+}
+#copyright {  /* © Abdelilah Dahdahi 2021 */
+    color: white;
+    text-align: center;
+}
+
+#education {  
+    color: white;
+}
+
+#diploma {  
+    color: white;
+}
+
+#veronatrento {
+    color: whitesmoke;
+}
+
+#skills {  
+    color: white;
+}
+
+#foreignlanguages {  
+    color: white;
+}
+
+#table {
+    color:aliceblue;
+}
+  
