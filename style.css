@@ -1,49 +1,51 @@
 body {
-    background-image: url('github.com/abdelilahdahdahi/CV/blob/main/background.jpg');
+    background-color: #CBF1F5;
     background-repeat: no-repeat;
     /*background-size: 100% 100%*/
 }
 #intro {   /* Abdelilah Dahdahi */
+    color: #222831;
     font-size: 40px;
-    color: white;
     font-family:'Lucida Sans';
     text-align: center;
 }
 #subIntro {  /* Computer Science student */
-    color: white;
+    color: #00ADB5;
     font-size: 22px;
     font-family: 'Garamond';
     text-align: center;
 }
 #contactMe {
-    color: white;
+    color: black;
 }
 #copyright {  /* © Abdelilah Dahdahi 2021 */
-    color: white;
+    color: black;
     text-align: center;
 }
 
 #education {  
-    color: white;
+    color: black;
 }
 
 #diploma {  
-    color: white;
+    color: black;
 }
 
 #veronatrento {
-    color: whitesmoke;
+    color: black;
 }
 
 #skills {  
-    color: white;
+    color: black;
 }
 
 #foreignlanguages {  
-    color: white;
+    color: black;
 }
 
 #table {
-    color:aliceblue;
+    color:black;
 }
-  
+.titles {
+    color: #71C9CE;
+}
